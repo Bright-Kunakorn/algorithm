@@ -35,7 +35,6 @@ int minCoins(int coins[], int m, int V)
 
 	return table[V];
 }
-
 // Driver program to test above function
 int main()
 {
